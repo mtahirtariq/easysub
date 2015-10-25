@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/16x16/video.png</file>
+        <file>resources/icons/16x16/downloading.png</file>
+        <file>resources/icons/16x16/success.png</file>
+        <file>resources/icons/16x16/failed.png</file>
+        <file>resources/icons/24x24/video.png</file>
+        <file>resources/icons/24x24/downloading.png</file>
+        <file>resources/icons/24x24/success.png</file>
+        <file>resources/icons/24x24/failed.png</file>
+        <file>resources/icons/32x32/video.png</file>
+        <file>resources/icons/32x32/downloading.png</file>
+        <file>resources/icons/32x32/success.png</file>
+        <file>resources/icons/32x32/failed.png</file>
+    </qresource>
+</RCC>

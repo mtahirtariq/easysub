@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Download Subtitles
+Comment=Download subtitles from subscene.com for selected files
+Exec=easysub %F
+Icon-Name=folder
+Selection=notnone
+Extensions=any;
+
